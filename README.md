@@ -1,4 +1,5 @@
-=== WP Love It ===
+ WP Love It
+ ==========
 Contributors: newbiesup
 Donate link: http://ptheme.com/
 Tags: like, rate, like it, rating, like count, rating count
@@ -10,14 +11,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Add a simple "Love It" button to post
 
-== Description ==
+== Description
 
 This plugin enables you to add an ajax Love It button to your WordPress post. You can choose it to appear on the top or bottom of the content. It also includes a shortcode to let you manually add the button to the post.
 
 
 Plugin homepage: [http://ptheme.com/item/wp-love-it/](http://ptheme.com/item/wp-love-it/ "WP Love It")
 
-= Features =
+== Features
 
 *   AJAX love it without refreshing the page
 *   Cookies support to prevent repeatedly click the button
